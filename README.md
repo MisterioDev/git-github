@@ -22,7 +22,7 @@ Los cambios registrados en el repositorio se pueden verificar en cualquier momen
 
 Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un repositorio remoto, puedes usar el comando "git push" para enviarlos a un repositorio remoto, como GitHub. Para traer cambios de otros desarrolladores o repositorios remotos, puedes usar el comando "git pull" para descargar los cambios a tu repositorio local.
 
-##COMANDOS:
+## COMANDOS:
 
 **mkdir (+nombre de carpeta)** Crea carpeta.
 
