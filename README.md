@@ -40,4 +40,4 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 - **git checkout (+nombre de la rama)** Cambia de rama.
 - **git checkout -b (+nombre de la rama)** Crea rama y te cambia a ella.
 - **git branch -d (+nombre de la rama)** Elimina la rama.
-- **git branch -D (+nombre de la rama)**Elimina la rama de forma forzada.
+- **git branch -D (+nombre de la rama)** Elimina la rama de forma forzada.
