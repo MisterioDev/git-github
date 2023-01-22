@@ -21,3 +21,9 @@ Los cambios en el área de preparación se confirman con el comando "git commit"
 Los cambios registrados en el repositorio se pueden verificar en cualquier momento utilizando el comando "git log".
 
 Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un repositorio remoto, puedes usar el comando "git push" para enviarlos a un repositorio remoto, como GitHub. Para traer cambios de otros desarrolladores o repositorios remotos, puedes usar el comando "git pull" para descargar los cambios a tu repositorio local.
+
+##COMANDOS:
+
+**mkdir (+nombre de carpeta)** Crea carpeta. **cd (+nombre de carpeta)** Ingresa a carpeta. **touch (+nombre de archivo)** Crea archivos. **touch .gitignore** Todas las rutas en el, son ignoradas. **ls** Muestra los archivos dentro de la carpeta. **ls -a** Muestra todos los archivos, incluido los ocultos.
+
+**git init** Inicializa un nuevo repositorio de Git en la carpeta actual. **git add (+nombre de archivo)** Agregar los cambios de un archivo al staged. **git add .** Agregar todos los cambios de todos los archivos al staged. **git commit -m "mensaje descriptivo del cambio"** Confirma cambios y agrega comentario.
