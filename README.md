@@ -24,6 +24,6 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 
 ##COMANDOS:
 
-**mkdir (+nombre de carpeta)** Crea carpeta. **cd (+nombre de carpeta)** Ingresa a carpeta. **touch (+nombre de archivo)** Crea archivos. **touch .gitignore** Todas las rutas en el, son ignoradas. **ls** Muestra los archivos dentro de la carpeta. **ls -a** Muestra todos los archivos, incluido los ocultos.
+-**mkdir (+nombre de carpeta)** Crea carpeta. -**cd (+nombre de carpeta)** Ingresa a carpeta. -**touch (+nombre de archivo)** Crea archivos. -**touch .gitignore** Todas las rutas en el, son ignoradas. -**ls** Muestra los archivos dentro de la carpeta. -**ls -a** Muestra todos los archivos, incluido los ocultos.
 
-**git init** Inicializa un nuevo repositorio de Git en la carpeta actual. **git add (+nombre de archivo)** Agregar los cambios de un archivo al staged. **git add .** Agregar todos los cambios de todos los archivos al staged. **git commit -m "mensaje descriptivo del cambio"** Confirma cambios y agrega comentario.
+-**git init** Inicializa un nuevo repositorio de Git en la carpeta actual. -**git add (+nombre de archivo)** Agregar los cambios de un archivo al staged. -**git add .** Agregar todos los cambios de todos los archivos al staged. -**git commit -m "mensaje descriptivo del cambio"** Confirma cambios y agrega comentario.
