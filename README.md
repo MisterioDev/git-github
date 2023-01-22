@@ -24,22 +24,20 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 
 ## COMANDOS:
 
-**mkdir (+nombre de carpeta)** Crea carpeta.
-
-**cd (+nombre de carpeta)** Ingresa a carpeta.
-
-**touch (+nombre de archivo)** Crea archivos.
-
-**touch .gitignore** Todas las rutas en el, son ignoradas.
-
-**ls** Muestra los archivos dentro de la carpeta.
-
-**ls -a** Muestra todos los archivos, incluido los ocultos.
-
-**git init** Inicializa un nuevo repositorio de Git en la carpeta actual.
-
-**git add (+nombre de archivo)** Agregar los cambios de un archivo al staged.
-
-**git add .** Agregar todos los cambios de todos los archivos al staged.
-
-**git commit -m "mensaje descriptivo del cambio"** Confirma cambios y agrega comentario.
+- **mkdir (+nombre de carpeta)** Crea carpeta.
+- **cd (+nombre de carpeta)** Ingresa a carpeta.
+- **touch (+nombre de archivo)** Crea archivos.
+- **touch .gitignore** Todas las rutas en el, son ignoradas.
+- **ls** Muestra los archivos dentro de la carpeta.
+- **ls -a** Muestra todos los archivos, incluido los ocultos.
+- **git init** Inicializa un nuevo repositorio de Git en la carpeta actual.
+- **git add (+nombre de archivo)** Agregar los cambios de un archivo al staged.
+- **git add .** Agregar todos los cambios de todos los archivos al staged.
+- **git commit -m "mensaje descriptivo del cambio"** Confirma cambios y agrega comentario.
+- **git clone (+url de repositorio)** Clona el repositorio.
+- **git branch** Lista de las ramas del repositorio.
+- **git branch (+nombre de la rama)** Crea una rama.
+- **git checkout (+nombre de la rama)** Cambia de rama.
+- **git checkout -b (+nombre de la rama)** Crea rama y te cambia a ella.
+- **git branch -d (+nombre de la rama)** Elimina la rama.
+- **git branch -D (+nombre de la rama)**Elimina la rama de forma forzada.
