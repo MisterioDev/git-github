@@ -43,6 +43,7 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 - **git branch -D (+nombre de la rama)** Elimina la rama de forma forzada.
 - **git push origin --delete (+nombre de la rama)** Elimina rama remota.
 - **git commit --amend --no-edit** Agrega un cambio sin editar el commit anterior.
+- **git reset --hard HEAD~1** Elimina el último commit.
 
 ## RAMAS
 
