@@ -41,3 +41,9 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 - **git checkout -b (+nombre de la rama)** Crea rama y te cambia a ella.
 - **git branch -d (+nombre de la rama)** Elimina la rama.
 - **git branch -D (+nombre de la rama)** Elimina la rama de forma forzada.
+
+## RAMAS
+
+Una rama nos permite aislar una nueva funcionalidad en nuestro código que después podremos añadir a la versión principal.
+
+Las ramas creadas, copiara todos los archivos que estan antes de su creación.
