@@ -39,11 +39,22 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 - **git branch (+nombre de la rama)** Crea una rama.
 - **git checkout (+nombre de la rama)** Cambia de rama.
 - **git checkout -b (+nombre de la rama)** Crea rama y te cambia a ella.
-- **git branch -d (+nombre de la rama)** Elimina la rama.
+- **git branch -d (+nombre de la rama)** Elimina la rama local.
 - **git branch -D (+nombre de la rama)** Elimina la rama de forma forzada.
+- **git push origin --delete (+nombre de la rama)** Elimina rama remota.
 
 ## RAMAS
 
 Una rama nos permite aislar una nueva funcionalidad en nuestro código que después podremos añadir a la versión principal.
 
 Las ramas creadas, copiara todos los archivos que estan antes de su creación.
+
+Une dos ramas. Para hacer una fusión necesitamos:
+
+1. Situarnos en la rama que se quedará con el contenido fusionado.
+2. Fusionar.
+
+Cuando se fusionan ramas se pueden dar 2 resultados diferentes:
+
+- Fast-Forward: La fusión se hace automática, no hay conflictos por resolver.
+- Manual Merge: La fusión hay que hacerla manual, para resolver conflictos de duplicación de contenido.
