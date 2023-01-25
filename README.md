@@ -44,6 +44,21 @@ Si quieres compartir tus cambios con otros desarrolladores o almacenarlos en un 
 - **git push origin --delete (+nombre de la rama)** Elimina rama remota.
 - **git commit --amend --no-edit** Agrega un cambio sin editar el commit anterior.
 - **git reset --hard HEAD~1** Elimina el último commit.
+- **git log** Muestra el historial de cambios.
+- **git log --oneline** Muestra en una sola línea por cambio.
+- **git log --oneline --graph --all** Muestra una gráfica del historial de cambios, rama y fusiones.
+- **git log -n** cambiamos la n por cualquier número entero y mostrará los n cambios recientes.
+- **git log --after="2019-07-07 00:00:00"** Muestra los cambios realizados después de la fecha especificada.
+- **git log --before="2019-07-08 00:00:00"** Muestra los cambios realizados antes de la fecha especificada.
+- **git log --after="2019-07-07 00:00:00" --before="2019-07-08 00:00:00"** Muestra los cambios realizados en el rango de fecha especificado.
+- **git reflog** Muestra todo el registro de acciones del log incluyendo inserciones, cambios, eliminaciones, fusiones, etc.
+- **git diff** Diferencias entre el Working Directory y el Staging Area.
+- **git status** Muestra el listado de archivos nuevos (untracked), borrados o editados.
+- **git reset --soft** Borra HEAD.
+- **git reset --mixed** Borra HEAD y Staging.
+- **git reset --hard** Borra todo: HEAD, Staging y Working Directory.
+- **git reset id-commit** Deshace todos los cambios después del commit indicado, preservando los cambios localmente.
+- **git reset --hard id-commit** Desecha todo el historial y regresa al commit especificado.
 
 ## RAMAS
 

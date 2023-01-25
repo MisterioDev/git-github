@@ -1,0 +1,154 @@
+commit c6aef4d7900e8e3e50d88b58f4c30166dbd767d5
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 15:21:01 2023 -0500
+
+    2 Párrafos y 1 comando
+
+commit b5a9aa44717bdcb045d5311661dd3b1612852929
+Merge: 4cae9c8 6873963
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 15:12:50 2023 -0500
+
+    Resolvieldo conflicto de estaciones del año con fecha de inicio
+
+commit 4cae9c831cd4d1f9c1d65033ba2c26716186abbf
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 14:48:52 2023 -0500
+
+    Agregando estaciones del año con fecha
+
+commit 687396389c1672b599d4f159eecc543ec5e05d08
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 14:48:52 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 997aa9273820a78aa9873fc7c1118e28bd429e5b
+Merge: 43d488c de08366
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 14:18:15 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit de08366bc5e31d9841894870f1b568f0e2f17859
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 13:51:30 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 43d488cfc123eebf06db0d0ae4d91fc382d2a49c
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 13:48:54 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 787b24c5a5d300361c9f4e3829ab8e48c7e56cca
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:47:31 2023 -0500
+
+    Agregando contenido ramas
+
+commit d1918a43557ab76f48af3c9a1172d2f582f3c2d8
+Merge: c12d591 4542384
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:34:48 2023 -0500
+
+    Merge branch 'js'
+
+commit c12d591f93c5e8654140ac00fa9173ec7ab0aa67
+Merge: 0804d4a 1a2ed02
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:34:40 2023 -0500
+
+    Merge branch 'css'
+
+commit 0804d4a566259c44a144b34b95d4464cf386f290
+Merge: 4d2d37e 85028a7
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:34:08 2023 -0500
+
+    Merge branch 'html'
+
+commit 4d2d37e5372cf204ddac5c7d42f84c67307abeb0
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:31:45 2023 -0500
+
+    Agregando contenido 24.01
+
+commit 454238428ed5c700eb44d73683c666ae0dda9dbc
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:19:58 2023 -0500
+
+    Creando index.js
+
+commit 1a2ed0284bc99f5ac070d20a7533b32a9f5d4ca8
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:14:11 2023 -0500
+
+    Creando CSS
+
+commit 85028a7f07b87ad9c779144d3ef41040dc47e2d2
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Tue Jan 24 11:09:44 2023 -0500
+
+    Creando index.html
+
+commit 30076bd9574327056880667cc3b9273a34d1e090
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 11:04:20 2023 -0500
+
+    Corrigiendo comandos
+
+commit 1ec0eae3e051dd193f86dd3c83f9eb4fcca05f59
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 11:02:37 2023 -0500
+
+    Agregando mas comandos
+
+commit 291fba8ca1a069824d2dcf3362e4264ff25de9a1
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 10:37:20 2023 -0500
+
+    Ignorando archivos .exe
+
+commit 59a8e8c0f09577d7d94e7364f7311b0f54e87ec8
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 00:54:58 2023 -0500
+
+    Corrigiendo 3 contenido 2
+
+commit 6c556350b3088667241b5f8dff8e80e09295ed28
+Author: MisterioDev <113564955+MisterioDev@users.noreply.github.com>
+Date:   Sun Jan 22 00:50:03 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 416065b169a097a397ffd25d0ff94dbb320368cc
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 00:42:11 2023 -0500
+
+    Corrigiendo 2 contenido 2
+
+commit 5a3b157fc2ea0b4a076992b67d3d9770ad051105
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 00:38:26 2023 -0500
+
+    Corrigiendo contenido 2
+
+commit 5f50c39cfcc3c9acde7d622e4cd9ec59a7755d97
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 00:35:03 2023 -0500
+
+    Agregando contenido 2
+
+commit 27292671d819b40d501bc4b0fcaa2f98816de271
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sun Jan 22 00:05:05 2023 -0500
+
+    Agregando contenido 1
+
+commit c89e54c22a07e021d832352bd28d986dbfcdf2ec
+Author: MisterioDev <pauldelacruzcancho@gmail.com>
+Date:   Sat Jan 21 23:52:35 2023 -0500
+
+    Primer commit
