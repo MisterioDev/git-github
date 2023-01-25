@@ -75,3 +75,5 @@ Cuando se fusionan ramas se pueden dar 2 resultados diferentes:
 
 - Fast-Forward: La fusión se hace automática, no hay conflictos por resolver.
 - Manual Merge: La fusión hay que hacerla manual, para resolver conflictos de duplicación de contenido.
+
+Este commit es para oficializar nuestra versión **v1.0.0**
